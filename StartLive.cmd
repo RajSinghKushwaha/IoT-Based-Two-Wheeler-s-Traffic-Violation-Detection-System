@@ -1,0 +1,1 @@
+python detect.py --weights final.pt --view-img --no-trace --source 0

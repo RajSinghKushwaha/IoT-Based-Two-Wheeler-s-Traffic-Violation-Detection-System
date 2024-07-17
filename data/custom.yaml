@@ -1,0 +1,4 @@
+train: dataset/train.txt
+val: dataset/val.txt
+nc: 4                     #No. of classes
+names: ['Motorcycle','Helmet','No_Helmet',Tripleriding']      #class names
